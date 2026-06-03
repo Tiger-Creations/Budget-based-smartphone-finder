@@ -19,7 +19,7 @@ elif a<=900 and a>1000:
     print("Samsung Galaxy ZFlip 7")
 elif a<=1000 and a>1100":
     print("Google Pixel 10")
-elif a<=1100 and a>1200":
+elif a<=1100 and a>1200:
     print("Samsung Galaxy S26")
 elif a=="Under $50":
     print("Cellular phone from Nokia or Motorola")
