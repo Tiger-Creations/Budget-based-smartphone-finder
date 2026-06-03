@@ -1,4 +1,4 @@
-a=input("Enter the price range")
+a=int(input("Enter the price range"))
 if a<=100 or a>200:
     print("Redmi 12")
 elif a<=200 or a>300:
@@ -17,7 +17,7 @@ elif a<=800 or a>900:
     print("Iphone 14")
 elif a<=900 or a>1000:
     print("Samsung Galaxy ZFlip 7")
-elif a<=1000 or a>1100":
+elif a<=1000 or a>1100:
     print("Google Pixel 10")
 elif a<=1100 or a>1200:
     print("Samsung Galaxy S26")
